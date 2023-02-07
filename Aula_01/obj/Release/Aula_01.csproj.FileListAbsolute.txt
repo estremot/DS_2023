@@ -1,0 +1,11 @@
+E:\Escolas\ETEC\2023\2DS\DS\DS_2023\Aula_01\bin\Release\Aula_01.exe.config
+E:\Escolas\ETEC\2023\2DS\DS\DS_2023\Aula_01\bin\Release\Aula_01.exe
+E:\Escolas\ETEC\2023\2DS\DS\DS_2023\Aula_01\bin\Release\Aula_01.pdb
+E:\Escolas\ETEC\2023\2DS\DS\DS_2023\Aula_01\obj\Release\Aula_01.csproj.AssemblyReference.cache
+E:\Escolas\ETEC\2023\2DS\DS\DS_2023\Aula_01\obj\Release\Aula_01.csproj.SuggestedBindingRedirects.cache
+E:\Escolas\ETEC\2023\2DS\DS\DS_2023\Aula_01\obj\Release\Aula_01.Frm_Principal.resources
+E:\Escolas\ETEC\2023\2DS\DS\DS_2023\Aula_01\obj\Release\Aula_01.Properties.Resources.resources
+E:\Escolas\ETEC\2023\2DS\DS\DS_2023\Aula_01\obj\Release\Aula_01.csproj.GenerateResource.cache
+E:\Escolas\ETEC\2023\2DS\DS\DS_2023\Aula_01\obj\Release\Aula_01.csproj.CoreCompileInputs.cache
+E:\Escolas\ETEC\2023\2DS\DS\DS_2023\Aula_01\obj\Release\Aula_01.exe
+E:\Escolas\ETEC\2023\2DS\DS\DS_2023\Aula_01\obj\Release\Aula_01.pdb
