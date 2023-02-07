@@ -1,0 +1,7 @@
+Instalar os Programas para Controle de Versionamento.
+
+1) Instalar o Git: https://git-scm.com/downloads
+
+2) Instalar o GitHub Desktop: https://desktop.github.com/
+
+3) Criar a sua conta no github.com
