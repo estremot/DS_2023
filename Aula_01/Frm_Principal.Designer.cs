@@ -1,6 +1,6 @@
 ﻿namespace Aula_01
 {
-    partial class Form1
+    partial class Frm_Principal
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -28,10 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // Frm_Principal
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(396, 192);
+            this.Name = "Frm_Principal";
+            this.Text = "Aula 01 do Professor Estremote";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
